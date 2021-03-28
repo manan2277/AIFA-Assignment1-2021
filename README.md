@@ -7,5 +7,5 @@ Group Members: AKSHAT SHARMA(19HS20053) :- IITIANAKSHAT@IIKGP.AC.IN<br>
                SAGNIK SAHANA(19MA20046):- sagnik0403@iitkgp.ac.in<br><br>
                
                
-<B> Please read the READ ME/User Manual.pdf file first            
+<B> Please read the READ ME:User Manual.pdf file first            
                
